@@ -2,7 +2,7 @@
 
 This repository mirrors [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics) on resources related to numerical analysis.
 
-Here are textbooks which have contributed to my understanding will be given, along with links extracted from my past bookmarks,
+Textbooks which have contributed to my understanding will be given, along with links extracted from my past bookmarks,
 
 * Anderson E, et al. (1999). LAPACK Users' Guide, 3e, https://www.netlib.org/lapack/lug/.
 * Golub GH, Van Loan CF (2013). Matrix Computations, 4e. The Johns Hopkins University Press, https://jhupbooks.press.jhu.edu/title/matrix-computations.
