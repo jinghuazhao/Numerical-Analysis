@@ -17,7 +17,7 @@ These have contributed to my understanding.
 
 ## Website
 
-* [GAMS](https://gams.nist.gov/).
+* [Guide to Available Mathematical Software](https://gams.nist.gov/).
 * [Netlib Repository](https://www.netlib.org/).
 * [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/).
 * [Wolfram MathWorld](http://mathworld.wolfram.com/).
