@@ -13,7 +13,7 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 * Trefethen LN (2013). Approximation Theory and Approximation Practice. SIAM. [Source code](http://www.chebfun.org/ATAP/).
 * Wilkinson JH (1965). The algebraic eigenvalue problem, Oxford University Press.
 
-## Website
+## Websites
 
 * [Guide to Available Mathematical Software](https://gams.nist.gov/).
 * [Netlib Repository](https://www.netlib.org/).
