@@ -17,7 +17,7 @@ These have contributed to my understanding.
 
 ## Website
 
-* [netlib](https://www.netlib.org/).
+* [Netlib Repository](https://www.netlib.org/).
 * [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/).
 * [Wolfram MathWorld](http://mathworld.wolfram.com/).
 
