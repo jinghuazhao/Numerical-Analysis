@@ -22,6 +22,8 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 
 ## Software
 
+* [AMPL](https://ampl.com/).
+* [ILOG](https://www.ibm.com/digital-marketing).
 * [Maplesoft](https://www.maplesoft.com/).
 * [Mathematica](https://www.wolfram.com/mathematica/).
 * [SageMath](http://www.sagemath.org/).
