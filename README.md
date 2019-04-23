@@ -12,6 +12,7 @@ These have contributed to my understanding.
 * Press WH, et al. (2007). [Numerical Recipes: The Art of Scientific Computing](http://numerical.recipes/), 3e, Cambridge University Press.
 * Stewart GW (1998). Matrix Algorithms I-Basic Decompositions. SIAM. https://epubs.siam.org/doi/book/10.1137/1.9781611971408.
 * Stewart GW (2001). Matrix Algorithms II-Eigensystems. SIAM. https://epubs.siam.org/doi/book/10.1137/1.9780898718058.
+* Trefethen LN (2013). Approximation Theory and Approximation Practice. SIAM. [Source code](http://www.chebfun.org/ATAP/).
 * Wilkinson JH (1965). The algebraic eigenvalue problem, Oxford University Press.
 
 ## Website
