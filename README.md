@@ -27,3 +27,7 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 * [Maplesoft](https://www.maplesoft.com/).
 * [Mathematica](https://www.wolfram.com/mathematica/).
 * [SageMath](http://www.sagemath.org/).
+
+## Miscellaneous resources
+
+See [here](misc.md).
