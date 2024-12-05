@@ -32,5 +32,6 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 
 * Adam-optimizer for stochastic function x^2 -4*x + 4, <https://github.com/sagarvegad/Adam-optimizer>
 * [An illustrated introduction to the t-SNE algorithm](https://github.com/oreillymedia/t-SNE-tutorial)
+* [Building AI Applications with OpenAI APIs](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra) ([post](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html))
 * [PCA vs Autoencoders for Dimensionality Reduction](https://www.r-bloggers.com/2018/07/pca-vs-autoencoders-for-dimensionality-reduction/)
