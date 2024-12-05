@@ -31,6 +31,6 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 ## Miscellaneous resources
 
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra), [post](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html)
-* [An illustrated introduction to the t-SNE algorithm]https://github.com/oreillymedia/t-SNE-tutorial)
+* [An illustrated introduction to the t-SNE algorithm](https://github.com/oreillymedia/t-SNE-tutorial)
 
 See [here](misc.md).
