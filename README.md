@@ -36,5 +36,7 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 * [PCA vs Autoencoders for Dimensionality Reduction](https://www.r-bloggers.com/2018/07/pca-vs-autoencoders-for-dimensionality-reduction/)
 
 ## AI-related
+
+* [Applied Generative AI for Beginners](https://github.com/Apress/Applied-Generative-AI-for-Beginners)
 * [Building AI Applications with OpenAI APIs](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 * [OpenAI API Cookbook](https://github.com/PacktPublishing/OpenAI-API-Cookbook)
