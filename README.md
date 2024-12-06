@@ -40,3 +40,4 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 * [Applied Generative AI for Beginners](https://github.com/Apress/Applied-Generative-AI-for-Beginners)
 * [Building AI Applications with OpenAI APIs](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 * [OpenAI API Cookbook](https://github.com/PacktPublishing/OpenAI-API-Cookbook)
+* [Python Data Cleaning and Preparation Best Practices](https://github.com/PacktPublishing/Python-Data-Cleaning-and-Preparation-Best-Practices)
