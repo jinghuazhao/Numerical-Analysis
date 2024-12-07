@@ -39,5 +39,7 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 
 * [Applied Generative AI for Beginners](https://github.com/Apress/Applied-Generative-AI-for-Beginners)
 * [Building AI Applications with OpenAI APIs](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
+- [How to Conduct Time Series Analysis in R](https://www.kdnuggets.com/how-to-conduct-time-series-analysis-in-r)
+- [Lasso and Elastic Net Regressions, Explained: A Visual Guide with Code Examples](https://towardsdatascience.com/lasso-and-elastic-net-regressions-explained-a-visual-guide-with-code-examples-5fecf3e1432f)
 * [OpenAI API Cookbook](https://github.com/PacktPublishing/OpenAI-API-Cookbook)
 * [Python Data Cleaning and Preparation Best Practices](https://github.com/PacktPublishing/Python-Data-Cleaning-and-Preparation-Best-Practices)
