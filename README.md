@@ -4,12 +4,12 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 
 ## Textbooks
 
-* Anderson E, et al. (1999). LAPACK Users' Guide, 3e, https://www.netlib.org/lapack/lug/.
+* Anderson E, et al. (1999). LAPACK Users' Guide, 3e, <https://www.netlib.org/lapack/lug/>.
 * Forsythe GE, Malcolm MA, Moler CB (1977). Computer Methods for Mathematical Computations. Prentice-Hall. [Source code](http://www.pdas.com/fmmdownload.html).
-* Golub GH, Van Loan CF (2013). Matrix Computations, 4e. The Johns Hopkins University Press, https://jhupbooks.press.jhu.edu/title/matrix-computations. [Source code](http://www.cs.cornell.edu/cv/GVL4/golubandvanloan.htm).
+* Golub GH, Van Loan CF (2013). Matrix Computations, 4e. The Johns Hopkins University Press, <https://jhupbooks.press.jhu.edu/title/matrix-computations>. [Source code](http://www.cs.cornell.edu/cv/GVL4/golubandvanloan.htm).
 * Press WH, et al. (2007). [Numerical Recipes: The Art of Scientific Computing](http://numerical.recipes/), 3e, Cambridge University Press.
-* Stewart GW (1998). Matrix Algorithms I-Basic Decompositions. SIAM. https://epubs.siam.org/doi/book/10.1137/1.9781611971408.
-* Stewart GW (2001). Matrix Algorithms II-Eigensystems. SIAM. https://epubs.siam.org/doi/book/10.1137/1.9780898718058.
+* Stewart GW (1998). Matrix Algorithms I-Basic Decompositions. SIAM. <https://epubs.siam.org/doi/book/10.1137/1.9781611971408>.
+* Stewart GW (2001). Matrix Algorithms II-Eigensystems. SIAM. <https://epubs.siam.org/doi/book/10.1137/1.9780898718058>.
 * Trefethen LN (2013). Approximation Theory and Approximation Practice. SIAM. [Source code](http://www.chebfun.org/ATAP/).
 * Wilkinson JH (1965). The algebraic eigenvalue problem, Oxford University Press.
 
@@ -26,6 +26,7 @@ This repository mirrors [Computational-Statistics](https://github.com/jinghuazha
 * [ILOG](https://www.ibm.com/digital-marketing) ([Wikipedia](https://en.wikipedia.org/wiki/ILOG)).
 * [Maplesoft](https://www.maplesoft.com/).
 * [Mathematica](https://www.wolfram.com/mathematica/).
+* [NAG](https://nag.com/)
 * [SageMath](http://www.sagemath.org/).
 
 ## Miscellaneous resources
